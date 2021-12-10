@@ -1,0 +1,542 @@
+[24-Jan-2021 11:28:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/pay.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/pay.php on line 1
+[24-Jan-2021 11:28:19 America/New_York] PHP Notice:  Undefined variable: status in /home/bitfeeup/public_html/application/modules/member/views_old/ajax.php on line 1
+[24-Jan-2021 11:28:19 America/New_York] PHP Notice:  Undefined variable: message in /home/bitfeeup/public_html/application/modules/member/views_old/ajax.php on line 1
+[24-Jan-2021 11:28:19 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/edit.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/edit.php on line 69
+[24-Jan-2021 11:28:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/bitfeeup/public_html/application/modules/member/views_old/mail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/mail.php on line 8
+[24-Jan-2021 11:28:19 America/New_York] PHP Notice:  Undefined variable: plans in /home/bitfeeup/public_html/application/modules/member/views_old/plans.php on line 18
+[24-Jan-2021 11:28:19 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/bitfeeup/public_html/application/modules/member/views_old/plans.php on line 18
+[24-Jan-2021 11:28:19 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/admin.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/admin.php on line 4
+[24-Jan-2021 11:28:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/login.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/login.php on line 1
+[24-Jan-2021 11:28:20 America/New_York] PHP Notice:  Undefined variable: account_address in /home/bitfeeup/public_html/application/modules/member/views_old/payOLD.php on line 11
+[24-Jan-2021 11:28:20 America/New_York] PHP Notice:  Undefined variable: account_address in /home/bitfeeup/public_html/application/modules/member/views_old/payOLD.php on line 12
+[24-Jan-2021 11:28:20 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/payOLD.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/payOLD.php on line 15
+[24-Jan-2021 11:28:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/bitfeeup/public_html/application/modules/member/views_old/delete.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/delete.php on line 4
+[24-Jan-2021 11:28:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/signup.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/signup.php on line 2
+[24-Jan-2021 11:28:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/thanks.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/thanks.php on line 1
+[24-Jan-2021 11:28:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/package.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/package.php on line 1
+[24-Jan-2021 11:28:20 America/New_York] PHP Notice:  Undefined variable: title in /home/bitfeeup/public_html/application/modules/member/views_old/message.php on line 2
+[24-Jan-2021 11:28:20 America/New_York] PHP Notice:  Undefined variable: message in /home/bitfeeup/public_html/application/modules/member/views_old/message.php on line 3
+[24-Jan-2021 11:28:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/buyplan.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/buyplan.php on line 1
+[24-Jan-2021 11:28:20 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/loginOLD.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/loginOLD.php on line 10
+[24-Jan-2021 11:28:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/bitfeeup/public_html/application/modules/member/views_old/create.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/create.php on line 75
+[24-Jan-2021 11:28:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/royalty.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/royalty.php on line 1
+[24-Jan-2021 11:28:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/transfer.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/transfer.php on line 1
+[24-Jan-2021 11:28:20 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/addbrand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/addbrand.php on line 27
+[24-Jan-2021 11:28:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/services.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/services.php on line 6
+[24-Jan-2021 11:28:20 America/New_York] PHP Notice:  Undefined variable: wallet_total in /home/bitfeeup/public_html/application/modules/member/views_old/withdraw.php on line 7
+[24-Jan-2021 11:28:20 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/withdraw.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/withdraw.php on line 27
+[24-Jan-2021 11:28:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/myaccount.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/myaccount.php on line 6
+[24-Jan-2021 11:28:21 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/thanksOLD.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/thanksOLD.php on line 13
+[24-Jan-2021 11:28:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/bitfeeup/public_html/application/modules/member/views_old/brandlist.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/brandlist.php on line 4
+[24-Jan-2021 11:28:21 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/showbonus.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/showbonus.php on line 3
+[24-Jan-2021 11:28:21 America/New_York] PHP Notice:  Undefined variable: myplans in /home/bitfeeup/public_html/application/modules/member/views_old/dashboard.php on line 1
+[24-Jan-2021 11:28:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/dashboard.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/dashboard.php on line 47
+[24-Jan-2021 11:28:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/showlevel.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/showlevel.php on line 1
+[24-Jan-2021 11:28:21 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/signupOLD.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/signupOLD.php on line 10
+[24-Jan-2021 11:28:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/bitfeeup/public_html/application/modules/member/views_old/myprofile.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/myprofile.php on line 3
+[24-Jan-2021 11:28:21 America/New_York] PHP Notice:  Undefined variable: userdetail in /home/bitfeeup/public_html/application/modules/member/views_old/packageOLD.php on line 5
+[24-Jan-2021 11:28:21 America/New_York] PHP Notice:  Undefined variable: userdetail in /home/bitfeeup/public_html/application/modules/member/views_old/packageOLD.php on line 5
+[24-Jan-2021 11:28:21 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/packageOLD.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/packageOLD.php on line 24
+[24-Jan-2021 11:28:21 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/payroyalty.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/payroyalty.php on line 13
+[24-Jan-2021 11:28:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/mydownline.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/mydownline.php on line 1
+[24-Jan-2021 11:28:21 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/addbrandOLD.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/addbrandOLD.php on line 46
+[24-Jan-2021 11:28:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/fixedreward.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/fixedreward.php on line 1
+[24-Jan-2021 11:28:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/editprofile.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/editprofile.php on line 1
+[24-Jan-2021 11:28:21 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/userpayment.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/userpayment.php on line 3
+[24-Jan-2021 11:28:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/paybywallet.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/paybywallet.php on line 1
+[24-Jan-2021 11:28:21 America/New_York] PHP Notice:  Undefined variable: userdetail in /home/bitfeeup/public_html/application/modules/member/views_old/transferOLD.php on line 5
+[24-Jan-2021 11:28:21 America/New_York] PHP Notice:  Undefined variable: userdetail in /home/bitfeeup/public_html/application/modules/member/views_old/transferOLD.php on line 5
+[24-Jan-2021 11:28:21 America/New_York] PHP Notice:  Undefined variable: totalwallet in /home/bitfeeup/public_html/application/modules/member/views_old/transferOLD.php on line 27
+[24-Jan-2021 11:28:21 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/transferOLD.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/transferOLD.php on line 29
+[24-Jan-2021 11:28:22 America/New_York] PHP Notice:  Undefined variable: wallet_total in /home/bitfeeup/public_html/application/modules/member/views_old/withdrawOLD.php on line 4
+[24-Jan-2021 11:28:22 America/New_York] PHP Notice:  Undefined variable: wallet_total in /home/bitfeeup/public_html/application/modules/member/views_old/withdrawOLD.php on line 11
+[24-Jan-2021 11:28:22 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/withdrawOLD.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/withdrawOLD.php on line 13
+[24-Jan-2021 11:28:22 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/userwithdraw.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/userwithdraw.php on line 3
+[24-Jan-2021 11:28:22 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/userdownline.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/userdownline.php on line 3
+[24-Jan-2021 11:28:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/customerlist.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/customerlist.php on line 5
+[24-Jan-2021 11:28:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/activateuser.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/activateuser.php on line 1
+[24-Jan-2021 11:28:22 America/New_York] PHP Notice:  Undefined variable: userdetail in /home/bitfeeup/public_html/application/modules/member/views_old/mydownlineOLD.php on line 5
+[24-Jan-2021 11:28:22 America/New_York] PHP Notice:  Undefined variable: userdetail in /home/bitfeeup/public_html/application/modules/member/views_old/mydownlineOLD.php on line 5
+[24-Jan-2021 11:28:22 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/mydownlineOLD.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/mydownlineOLD.php on line 18
+[24-Jan-2021 11:28:22 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/addadminbrand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/addadminbrand.php on line 27
+[24-Jan-2021 11:28:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/upcomingpayout.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/upcomingpayout.php on line 1
+[24-Jan-2021 11:28:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/updatepassword.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/updatepassword.php on line 1
+[24-Jan-2021 11:28:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/forgotpassword.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/forgotpassword.php on line 1
+[24-Jan-2021 11:28:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/verifytransfer.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/verifytransfer.php on line 1
+[24-Jan-2021 11:28:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/mytransactions.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/mytransactions.php on line 1
+[24-Jan-2021 11:28:22 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/editprofileOLD.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/editprofileOLD.php on line 10
+[24-Jan-2021 11:28:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/changepassword.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/changepassword.php on line 1
+[24-Jan-2021 11:28:23 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/royaltypayment.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/royaltypayment.php on line 4
+[24-Jan-2021 11:28:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/bitfeeup/public_html/application/modules/member/views_old/customersignup.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/customersignup.php on line 3
+[24-Jan-2021 11:28:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/withdrawrequest.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/withdrawrequest.php on line 1
+[24-Jan-2021 11:28:23 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/admincommission.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/admincommission.php on line 3
+[24-Jan-2021 11:28:23 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/dashboard copy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/dashboard copy.php on line 6
+[24-Jan-2021 11:28:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/withdrawrequests.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/withdrawrequests.php on line 1
+[24-Jan-2021 11:28:23 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/forgotpasswordOLD.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/forgotpasswordOLD.php on line 13
+[24-Jan-2021 11:28:23 America/New_York] PHP Notice:  Undefined variable: userdetail in /home/bitfeeup/public_html/application/modules/member/views_old/mytransactionsOLD.php on line 5
+[24-Jan-2021 11:28:23 America/New_York] PHP Notice:  Undefined variable: userdetail in /home/bitfeeup/public_html/application/modules/member/views_old/mytransactionsOLD.php on line 5
+[24-Jan-2021 11:28:23 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/mytransactionsOLD.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/mytransactionsOLD.php on line 17
+[24-Jan-2021 11:28:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/admincustomerlist.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/admincustomerlist.php on line 5
+[24-Jan-2021 11:28:23 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/changepasswordOLD.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/changepasswordOLD.php on line 83
+[24-Jan-2021 11:28:23 America/New_York] PHP Notice:  Undefined variable: userdetail in /home/bitfeeup/public_html/application/modules/member/views_old/withdrawrequestsOLD.php on line 5
+[24-Jan-2021 11:28:23 America/New_York] PHP Notice:  Undefined variable: userdetail in /home/bitfeeup/public_html/application/modules/member/views_old/withdrawrequestsOLD.php on line 5
+[24-Jan-2021 11:28:23 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/withdrawrequestsOLD.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/withdrawrequestsOLD.php on line 18
+[24-Jan-2021 11:28:23 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/adminchangepassword.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/adminchangepassword.php on line 13
+[24-Jan-2021 11:28:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/mydownline_25_before_level.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/mydownline_25_before_level.php on line 1
+[17-Mar-2021 18:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/pay.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/pay.php on line 1
+[17-Mar-2021 18:07:06 America/New_York] PHP Notice:  Undefined variable: status in /home/bitfeeup/public_html/application/modules/member/views_old/ajax.php on line 1
+[17-Mar-2021 18:07:06 America/New_York] PHP Notice:  Undefined variable: message in /home/bitfeeup/public_html/application/modules/member/views_old/ajax.php on line 1
+[17-Mar-2021 18:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/edit.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/edit.php on line 69
+[17-Mar-2021 18:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/bitfeeup/public_html/application/modules/member/views_old/mail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/mail.php on line 8
+[17-Mar-2021 18:07:06 America/New_York] PHP Notice:  Undefined variable: plans in /home/bitfeeup/public_html/application/modules/member/views_old/plans.php on line 18
+[17-Mar-2021 18:07:06 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/bitfeeup/public_html/application/modules/member/views_old/plans.php on line 18
+[17-Mar-2021 18:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/admin.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/admin.php on line 4
+[17-Mar-2021 18:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/login.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/login.php on line 1
+[17-Mar-2021 18:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/bitfeeup/public_html/application/modules/member/views_old/delete.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/delete.php on line 4
+[17-Mar-2021 18:07:06 America/New_York] PHP Notice:  Undefined variable: account_address in /home/bitfeeup/public_html/application/modules/member/views_old/payOLD.php on line 11
+[17-Mar-2021 18:07:06 America/New_York] PHP Notice:  Undefined variable: account_address in /home/bitfeeup/public_html/application/modules/member/views_old/payOLD.php on line 12
+[17-Mar-2021 18:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/payOLD.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/payOLD.php on line 15
+[17-Mar-2021 18:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/signup.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/signup.php on line 2
+[17-Mar-2021 18:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/thanks.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/thanks.php on line 1
+[17-Mar-2021 18:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/package.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/package.php on line 1
+[17-Mar-2021 18:07:06 America/New_York] PHP Notice:  Undefined variable: title in /home/bitfeeup/public_html/application/modules/member/views_old/message.php on line 2
+[17-Mar-2021 18:07:06 America/New_York] PHP Notice:  Undefined variable: message in /home/bitfeeup/public_html/application/modules/member/views_old/message.php on line 3
+[17-Mar-2021 18:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/buyplan.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/buyplan.php on line 1
+[17-Mar-2021 18:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/loginOLD.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/loginOLD.php on line 10
+[17-Mar-2021 18:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/bitfeeup/public_html/application/modules/member/views_old/create.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/create.php on line 75
+[17-Mar-2021 18:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/royalty.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/royalty.php on line 1
+[17-Mar-2021 18:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/transfer.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/transfer.php on line 1
+[17-Mar-2021 18:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/addbrand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/addbrand.php on line 27
+[17-Mar-2021 18:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/services.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/services.php on line 6
+[17-Mar-2021 18:07:06 America/New_York] PHP Notice:  Undefined variable: wallet_total in /home/bitfeeup/public_html/application/modules/member/views_old/withdraw.php on line 7
+[17-Mar-2021 18:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/withdraw.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/withdraw.php on line 27
+[17-Mar-2021 18:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/myaccount.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/myaccount.php on line 6
+[17-Mar-2021 18:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/bitfeeup/public_html/application/modules/member/views_old/brandlist.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/brandlist.php on line 4
+[17-Mar-2021 18:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/thanksOLD.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/thanksOLD.php on line 13
+[17-Mar-2021 18:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/showbonus.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/showbonus.php on line 3
+[17-Mar-2021 18:07:06 America/New_York] PHP Notice:  Undefined variable: myplans in /home/bitfeeup/public_html/application/modules/member/views_old/dashboard.php on line 1
+[17-Mar-2021 18:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/dashboard.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/dashboard.php on line 47
+[17-Mar-2021 18:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/showlevel.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/showlevel.php on line 1
+[17-Mar-2021 18:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/signupOLD.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/signupOLD.php on line 10
+[17-Mar-2021 18:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/bitfeeup/public_html/application/modules/member/views_old/myprofile.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/myprofile.php on line 3
+[17-Mar-2021 18:07:07 America/New_York] PHP Notice:  Undefined variable: userdetail in /home/bitfeeup/public_html/application/modules/member/views_old/packageOLD.php on line 5
+[17-Mar-2021 18:07:07 America/New_York] PHP Notice:  Undefined variable: userdetail in /home/bitfeeup/public_html/application/modules/member/views_old/packageOLD.php on line 5
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/packageOLD.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/packageOLD.php on line 24
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/payroyalty.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/payroyalty.php on line 13
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/mydownline.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/mydownline.php on line 1
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/addbrandOLD.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/addbrandOLD.php on line 46
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/editprofile.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/editprofile.php on line 1
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/fixedreward.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/fixedreward.php on line 1
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/userpayment.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/userpayment.php on line 3
+[17-Mar-2021 18:07:07 America/New_York] PHP Notice:  Undefined variable: userdetail in /home/bitfeeup/public_html/application/modules/member/views_old/transferOLD.php on line 5
+[17-Mar-2021 18:07:07 America/New_York] PHP Notice:  Undefined variable: userdetail in /home/bitfeeup/public_html/application/modules/member/views_old/transferOLD.php on line 5
+[17-Mar-2021 18:07:07 America/New_York] PHP Notice:  Undefined variable: totalwallet in /home/bitfeeup/public_html/application/modules/member/views_old/transferOLD.php on line 27
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/transferOLD.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/transferOLD.php on line 29
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/paybywallet.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/paybywallet.php on line 1
+[17-Mar-2021 18:07:07 America/New_York] PHP Notice:  Undefined variable: wallet_total in /home/bitfeeup/public_html/application/modules/member/views_old/withdrawOLD.php on line 4
+[17-Mar-2021 18:07:07 America/New_York] PHP Notice:  Undefined variable: wallet_total in /home/bitfeeup/public_html/application/modules/member/views_old/withdrawOLD.php on line 11
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/withdrawOLD.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/withdrawOLD.php on line 13
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/userwithdraw.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/userwithdraw.php on line 3
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/userdownline.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/userdownline.php on line 3
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/customerlist.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/customerlist.php on line 5
+[17-Mar-2021 18:07:07 America/New_York] PHP Notice:  Undefined variable: userdetail in /home/bitfeeup/public_html/application/modules/member/views_old/mydownlineOLD.php on line 5
+[17-Mar-2021 18:07:07 America/New_York] PHP Notice:  Undefined variable: userdetail in /home/bitfeeup/public_html/application/modules/member/views_old/mydownlineOLD.php on line 5
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/mydownlineOLD.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/mydownlineOLD.php on line 18
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/addadminbrand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/addadminbrand.php on line 27
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/activateuser.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/activateuser.php on line 1
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/upcomingpayout.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/upcomingpayout.php on line 1
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/updatepassword.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/updatepassword.php on line 1
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/forgotpassword.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/forgotpassword.php on line 1
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/verifytransfer.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/verifytransfer.php on line 1
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/mytransactions.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/mytransactions.php on line 1
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/editprofileOLD.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/editprofileOLD.php on line 10
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/bitfeeup/public_html/application/modules/member/views_old/customersignup.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/customersignup.php on line 3
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/royaltypayment.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/royaltypayment.php on line 4
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/changepassword.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/changepassword.php on line 1
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/withdrawrequest.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/withdrawrequest.php on line 1
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/admincommission.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/admincommission.php on line 3
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/dashboard copy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/dashboard copy.php on line 6
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/withdrawrequests.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/withdrawrequests.php on line 1
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/forgotpasswordOLD.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/forgotpasswordOLD.php on line 13
+[17-Mar-2021 18:07:07 America/New_York] PHP Notice:  Undefined variable: userdetail in /home/bitfeeup/public_html/application/modules/member/views_old/mytransactionsOLD.php on line 5
+[17-Mar-2021 18:07:07 America/New_York] PHP Notice:  Undefined variable: userdetail in /home/bitfeeup/public_html/application/modules/member/views_old/mytransactionsOLD.php on line 5
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/mytransactionsOLD.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/mytransactionsOLD.php on line 17
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/admincustomerlist.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/admincustomerlist.php on line 5
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/changepasswordOLD.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/changepasswordOLD.php on line 83
+[17-Mar-2021 18:07:07 America/New_York] PHP Notice:  Undefined variable: userdetail in /home/bitfeeup/public_html/application/modules/member/views_old/withdrawrequestsOLD.php on line 5
+[17-Mar-2021 18:07:07 America/New_York] PHP Notice:  Undefined variable: userdetail in /home/bitfeeup/public_html/application/modules/member/views_old/withdrawrequestsOLD.php on line 5
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/withdrawrequestsOLD.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/withdrawrequestsOLD.php on line 18
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/bitfeeup/public_html/application/modules/member/views_old/mydownline_25_before_level.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/mydownline_25_before_level.php on line 1
+[17-Mar-2021 18:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bitfeeup/public_html/application/modules/member/views_old/adminchangepassword.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bitfeeup/public_html/application/modules/member/views_old/adminchangepassword.php on line 13
